@@ -8,5 +8,6 @@ camera projection matrix, which maps 3D world coordinates to image coordinates, 
 
 The next part of the project involves estimating the fundamental matrix using RANSAC and comparing the results of fundamental matrix estimation with and without RANSAC. The final portion of the project involves using the concepts learned to perform visual odometry and answer the corresponding reflection questions in the report.
 
+Figure below shows the estimated camera location in real world for <b>Argoverse</b> image data
 <img src="data/cameralocation.PNG" alt="car">
 
