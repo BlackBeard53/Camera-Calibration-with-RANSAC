@@ -1,0 +1,4 @@
+required_directories:
+  - proj5_code
+optional_directories:
+  - additional_data

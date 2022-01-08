@@ -1,0 +1,14 @@
+setup.py
+CSx476_Fall2021_Proj5.egg-info/PKG-INFO
+CSx476_Fall2021_Proj5.egg-info/SOURCES.txt
+CSx476_Fall2021_Proj5.egg-info/dependency_links.txt
+CSx476_Fall2021_Proj5.egg-info/requires.txt
+CSx476_Fall2021_Proj5.egg-info/top_level.txt
+proj5_code/__init__.py
+proj5_code/student_code.py
+proj5_code/utils.py
+proj5_unit_tests/__init__.py
+proj5_unit_tests/test_part1.py
+proj5_unit_tests/test_part2.py
+proj5_unit_tests/test_part3.py
+proj5_unit_tests/test_part4.py
